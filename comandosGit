@@ -1,0 +1,6 @@
+git add . git 
+git commit "Texto" -- git reset HEAD file 
+git status
+git push repositorio rama // git push origin master
+git remote -v (todos los repositorios remotos que tengo creado)
+
